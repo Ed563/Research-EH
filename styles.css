@@ -2,5 +2,17 @@ html {
   background-color: lightblue;
 }
 p {
-    color:red
-    };
+    color:red;
+    }
+h2 {
+    text-align: center;
+  }
+h1 {
+    text-align: center;
+ }
+.main{
+  background-color: pink;
+}
+.Launching{
+  color: purple
+}
