@@ -1,5 +1,5 @@
 html {
-  background-color: lightblue;
+  background-color: #FEE7E7;
 }
 p {
     color:red;
@@ -10,9 +10,36 @@ h2 {
 h1 {
     text-align: center;
  }
-.main{
-  background-color: pink;
-}
 .Launching{
-  color: purple
+  color: purple;
+}
+.CellPhone{
+  color: purple;
+}
+.Apple{
+  color: purple;
+}
+.Computer{
+  color: purple;
+}
+.Televison{
+  color: purple;
+}
+h1{
+  color: lightblue
+}
+.LaunchingMain{
+  background-color: #33E6FF
+}
+.CellMain{
+  background-color: #33D4FF
+}
+.AppleMain{
+  background-color: #33B2FF
+}
+.ComputerMain{
+  background-color: #339AFF
+}
+.TelevisionMain{
+  background-color: #3389FF
 }
